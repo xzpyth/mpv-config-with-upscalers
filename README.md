@@ -5,7 +5,7 @@ This config uses **gpu-api vulkan** and **vo=gpu-next** for HDR support
 ## Config
 For images i use separate methods involving SSSR downscaling and FSCRNNX upscaling for hi-res and low-res images respectively
 ## Preview
-![Alt text](preview.webp?raw=true "Screenshot of GUI")
+![Alt text](preview2022-10-1.webp?raw=true "Screenshot of GUI")
 ![Alt text](comparison-01.webp?raw=true "Downscalers comparison")
 ## Keybindings
 - <kbd>c</kbd> = 20LUFS audio normalisation
