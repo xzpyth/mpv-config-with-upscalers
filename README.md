@@ -12,6 +12,6 @@ For images i use separate methods involving SSSR downscaling and FSCRNNX upscali
 - <kbd>C</kbd> = auto crop video
 - <kbd>SHIFT</kbd>+<kbd>ENTER</kbd> = playlist
 - <kbd>b</kbd> = clear all shaders
-- <kbd>U</kbd> = switch between Ani4k or SSIM upscaler
+- <kbd>U</kbd> = switch between Anime4k or SSIM upscaler
 - <kbd>H</kbd> = switch between HDR modes (pictures too)
 - <kbd>Y</kbd> = switch between sharp modes (pictures too)
