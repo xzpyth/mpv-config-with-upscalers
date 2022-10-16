@@ -15,3 +15,4 @@ For images i use separate methods involving SSSR downscaling and FSCRNNX upscali
 - <kbd>U</kbd> = switch between Anime4k or SSIM upscaler
 - <kbd>H</kbd> = switch between HDR modes (pictures too)
 - <kbd>Y</kbd> = switch between sharp modes (pictures too)
+- <kbd>a</kbd> / <kbd>v</kbd> / <kbd>s</kbd> = switch between audio / video / subtitle tracks
