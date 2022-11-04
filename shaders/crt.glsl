@@ -3,7 +3,7 @@
 //!BIND MAIN
 
 // Tunable parameters
-#define BRIGHT_BOOST 1.2
+#define BRIGHT_BOOST 1.0
 #define DILATION 1.0
 #define GAMMA_INPUT 2.0
 #define GAMMA_OUTPUT 1.8
